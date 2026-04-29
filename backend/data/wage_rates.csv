@@ -1,0 +1,19 @@
+role,state,effective_from,effective_to,hourly_rate_inr,seniority
+Field Surveyor,MH,2025-01-01,2025-03-14,450.00,junior
+Field Surveyor,MH,2025-03-15,,520.00,junior
+Field Surveyor,MH,2025-01-01,2025-03-14,510.00,senior
+Field Surveyor,MH,2025-03-15,,590.00,senior
+Field Surveyor,UP,2025-01-01,2025-03-14,420.00,junior
+Field Surveyor,UP,2025-03-15,,480.00,junior
+Field Surveyor,UP,2025-01-01,2025-03-14,475.00,senior
+Field Surveyor,UP,2025-03-15,,545.00,senior
+Crop Inspector,MH,2025-01-01,,450.33,junior
+Crop Inspector,MH,2025-01-01,,510.00,senior
+Crop Inspector,UP,2025-01-01,,430.00,junior
+Crop Inspector,UP,2025-01-01,,490.00,senior
+Data Entry,MH,2025-01-01,2025-02-28,300.00,junior
+Data Entry,MH,2025-03-01,,340.00,junior
+Data Entry,MH,2025-01-01,,385.00,senior
+Data Entry,UP,2025-01-01,,280.00,junior
+Data Entry,UP,2025-01-01,,320.00,senior
+Data Entry,MH,2025-03-10,2025-03-20,320.00,junior
