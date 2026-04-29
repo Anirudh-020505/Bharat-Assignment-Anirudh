@@ -1,0 +1,12 @@
+{
+  "name": "bharat-assignment",
+  "version": "1.0.0",
+  "description": "Bharat Intelligence Payroll Reconciliation",
+  "scripts": {
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt",
+    "dev": "concurrently \"cd frontend && npm run dev\" \"cd backend && source .venv/bin/activate && fastapi dev api/main.py\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
